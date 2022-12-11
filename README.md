@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudfarahat)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to reach me: ...
-- Linkedin
-- https://www.linkedin.com/in/mahmoud-farahat-a03857205/
-- Facebook
-- https://www.facebook.com/profile.php?id=100083689886038
+  Linkedin:
+  https://www.linkedin.com/in/mahmoud-farahat-a03857205/
+  Facebook:
+  https://www.facebook.com/profile.php?id=100083689886038
